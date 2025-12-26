@@ -1,13 +1,13 @@
 
 import React, { useEffect, useState } from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import About from './components/About';
-import Skills from './components/Skills';
-import Projects from './components/Projects';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
-import BackgroundParticles from './components/BackgroundParticles';
+import Navbar from './Navbar';
+import Hero from './Hero';
+import About from './About';
+import Skills from './Skills';
+import Projects from './Projects';
+import Contact from './Contact';
+import Footer from './Footer';
+import BackgroundParticles from './BackgroundParticles';
 import { ChevronUp } from 'lucide-react';
 
 const App: React.FC = () => {
