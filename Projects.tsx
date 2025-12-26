@@ -20,7 +20,7 @@ const projectList = [
   {
     title: 'E-commerce Engine',
     category: 'Digital Store',
-    image: 'https://picsum.photos/id/3/800/600',
+    image: 'C:\Users\Murtaza\Downloads\Shoes.jpeg',
     tags: ['PHP', 'MySQL', 'Stripe'],
     desc: 'Robust e-commerce solutions for various business models.'
   },
